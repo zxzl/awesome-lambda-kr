@@ -17,3 +17,6 @@ AWS 람다에 관한 한국어 포스팅 모음입니다
 ab180에서 일하시는 분. Zappa는 파이썬 wsgi를 지원하는 서버리스 플랫폼
 - [서버리스 마이크로서비스(Serverless Microservice) with Zappa -1-](https://songyunseop.github.io/post/2017/09/serverless-microservice-with-zappa-1-/)
 - [서버리스 마이크로서비스(Serverless Microservice) with Zappa -2-](https://songyunseop.github.io/post/2017/09/serverless-microservice-with-zappa-2-/)
+
+### 로켓펀치 블로그
+- [300원에 200만뷰 소화하기 – 서버리스 아키텍처 AWS 람다(Lambda) 활용 사례](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/)
