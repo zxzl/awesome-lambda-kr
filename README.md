@@ -20,3 +20,9 @@ ab180에서 일하시는 분. Zappa는 파이썬 wsgi를 지원하는 서버리�
 
 ### 로켓펀치 블로그
 - [300원에 200만뷰 소화하기 – 서버리스 아키텍처 AWS 람다(Lambda) 활용 사례](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/)
+
+### Han Herry님의 미디엄
+- [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
+
+### 이준범님의 AWS Summit Seoul 2018 발표
+- [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://www.slideshare.net/awskorea/aws-lambda-tensorflow-keras-inferences)
