@@ -26,3 +26,7 @@ ab180에서 일하시는 분. Zappa는 파이썬 wsgi를 지원하는 서버리�
 
 ### 이준범님의 AWS Summit Seoul 2018 발표
 - [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://www.slideshare.net/awskorea/aws-lambda-tensorflow-keras-inferences)
+
+### 빙글 테크 블로그
+- [Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)
+- [Vingle의 AWS 기반 서버리스 마이크로 서비스 구현 사례 - 이상현 TechnicalLeader (동영상)](https://www.youtube.com/watch?v=CM47-1UpgOc)
